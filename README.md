@@ -54,6 +54,7 @@ Dashboard Preview
 <img width="1919" height="1129" alt="Screenshot 2026-05-28 225350" src="https://github.com/user-attachments/assets/44cbfba2-6b43-4b60-a3ce-1350f79c11ec" />
 
 How to Run the Project
+
 Download the .pbix file.
 Open using Power BI Desktop.
 Refresh the dataset if needed.
